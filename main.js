@@ -5,11 +5,17 @@
 //  Example: crazygames.com/game/crazy-flips-3d → slug is "crazy-flips-3d"
 // ============================================================
 const GAMES = [
-    { text: "Ragdoll Archers",  slug: "ragdoll-archers"   },
-    { text: "Havendock",         slug: "havendock"          },
-    { text: "Crazy Flips 3D",   slug: "crazy-flips-3d"     },
-    { text: "Stickman Warriors", slug: "stickman-warriors"  },
-    { text: "Road Fury",         slug: "road-fury"          },
+    { text: "Ships 3d", slug: "ships-3d" },
+    { text: "Open Front", slug: "openfront-gsw" },
+    { text: "8 Ball Pool", slug: "8-ball-pool-wyr" },
+    { text: "Table Tennis World Tour", slug: "table-tennis-world-tour" },
+    { text: "Cozy Golf", slug: "cozy-golf" },
+    { text: "PolyTrack", slug: "polytrack" },
+    { text: "Poxel.io", slug: "poxel-io"},
+    { text: "Voxiom.io", slug: "voxiom-io"},
+    { text: "Doodle Road", slug: "doodle-road"},
+    { text: "Veck", slug: "veck-io"},
+    { text: "World's Hardest Game", slug: "worlds-hardest-game"},
     // ← Add more lines here, same format
 ];
 
